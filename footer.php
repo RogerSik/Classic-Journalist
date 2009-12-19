@@ -1,7 +1,6 @@
-<!-- begin footer -->
 </div>
 	<div id="footer">
-	<p><a href="http://wordpress.com/" rel="generator">Get a free blog at WordPress.com</a> Theme: The Journalist by <a href="http://lucianmarin.com/" rel="designer">Lucian Marin</a></p>
+	<p>The Classic Journalist template by <a href="http://lucianmarin.com/" rel="designer">Lucian E. Marin</a> - enhanced by <a href="http://yoschi.cc/">Roger Sikorski</a> &mdash; Built for <a href="http://wordpress.org/">WordPress</a></p>
 	</div>
 
 <?php do_action('wp_footer', ''); ?>
