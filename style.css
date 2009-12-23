@@ -19,6 +19,20 @@ margin:0;
 border-top:#333 2px solid;
 }
 
+.aligncenter, div.aligncenter {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.alignleft {
+float:left;
+}
+
+.alignright {
+float:right;
+}
+
 * {
 padding:0;
 margin:0;
@@ -486,6 +500,20 @@ text-decoration:none;
 #wp-calendar td a:hover {
 font-weight:bold;
 text-decoration:none;
+}
+
+.aligncenter, div.aligncenter {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.alignleft {
+float:left;
+}
+
+.alignright {
+float:right;
 }
 
 /* wpcom */
