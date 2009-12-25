@@ -26,7 +26,7 @@
 	-->
 	
 
-<?php if ( comments_open() ) comments_template(); ?>
+<?php if ( comments_open() ) comments_template('', true); ?>
 
 <?php endwhile; else: ?>
 <div class="warning">

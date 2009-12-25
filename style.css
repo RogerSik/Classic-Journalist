@@ -521,3 +521,8 @@ float:right;
 background-color:#f6f6f6;
 padding: 0 0.5em 0.5em 0.5em;
 }
+
+/* TrackBacks/Pingbacks */
+.trackbacks {
+list-style-position: inside;
+}
