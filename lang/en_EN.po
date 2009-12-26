@@ -4,253 +4,253 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. Text in function
-#: Classic-Journalist/comments.php:14
+#: classic-journalist/comments.php:14
 msgid "%s Trackbacks/Pingbacks"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:32
+#: classic-journalist/index.php:32
 msgid "&laquo; Previous Page"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:81
-#: Classic-Journalist/comments.php:84
+#: classic-journalist/comments.php:81
+#: classic-journalist/comments.php:84
 msgid "(required)"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:91
+#: classic-journalist/comments.php:91
 msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/404.php:6
-#: Classic-Journalist/index.php:28
+#: classic-journalist/404.php:6
+#: classic-journalist/index.php:28
 msgid "Apologies, but we were unable to find what you were looking for. Perhaps searching will help."
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:32
+#: classic-journalist/sidebar.php:32
 msgid "Archives"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:29
+#: classic-journalist/sidebar.php:29
 msgid "Blogroll"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:35
+#: classic-journalist/sidebar.php:35
 msgid "Categories"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:23
+#: classic-journalist/sidebar.php:23
 msgid "Click to search archives"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:51
+#: classic-journalist/comments.php:51
 msgid "Comments are closed."
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:9
-#: Classic-Journalist/functions.php:75
+#: classic-journalist/functions.php:75
+#: classic-journalist/index.php:9
 msgid "Edit"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:11
+#: classic-journalist/index.php:11
 msgid "Edit This"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:22
+#: classic-journalist/sidebar.php:22
 msgid "Enter keyword to search"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:9
+#: classic-journalist/index.php:9
 msgid "F jS, Y"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:62
+#: classic-journalist/comments.php:62
 msgid "Leave a Reply"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:62
+#: classic-journalist/comments.php:62
 msgid "Leave a Reply to %s"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:76
+#: classic-journalist/comments.php:76
 msgid "Log out &raquo;"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:76
+#: classic-journalist/comments.php:76
 msgid "Log out of this account"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:76
+#: classic-journalist/comments.php:76
 msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:84
+#: classic-journalist/comments.php:84
 msgid "Mail (will not be published)"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:38
+#: classic-journalist/sidebar.php:38
 msgid "Meta"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:81
+#: classic-journalist/comments.php:81
 msgid "Name"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:32
+#: classic-journalist/index.php:32
 msgid "Next Page &raquo;"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/404.php:4
+#: classic-journalist/404.php:4
 msgid "Not Found"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:10
+#: classic-journalist/sidebar.php:10
 msgid "Pages"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:1
+#: classic-journalist/comments.php:1
 msgid "Please do not load this page directly. Thanks!"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:11
+#: classic-journalist/index.php:11
 msgid "Posted in %s by"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:14
+#: classic-journalist/index.php:14
 msgid "Read the rest of this entry &raquo;"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:16
+#: classic-journalist/sidebar.php:16
 msgid "Search"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:95
+#: classic-journalist/comments.php:95
 msgid "Submit Comment"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:24
+#: classic-journalist/comments.php:24
 msgid "Subscribe comments with RSS."
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:17
+#: classic-journalist/index.php:17
 msgid "Tags:"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:5
+#: classic-journalist/sidebar.php:5
 msgid "The Author"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:51
+#: classic-journalist/sidebar.php:51
 msgid "Themes"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:7
+#: classic-journalist/comments.php:7
 msgid "This post is password protected. Enter the password to view comments."
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:26
+#: classic-journalist/comments.php:26
 msgid "TrackBack URL."
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:87
+#: classic-journalist/comments.php:87
 msgid "Website"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:9
+#: classic-journalist/index.php:9
 msgid "Written by %s"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/comments.php:69
+#: classic-journalist/comments.php:69
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/functions.php:69
+#: classic-journalist/functions.php:69
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/functions.php:75
+#: classic-journalist/functions.php:75
 msgid "at"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/functions.php:75
+#: classic-journalist/functions.php:75
 msgid "j M y"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/index.php:9
-#: Classic-Journalist/index.php:11
+#: classic-journalist/index.php:9
+#: classic-journalist/index.php:11
 msgid "on"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:23
+#: classic-journalist/sidebar.php:23
 msgid "search"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/sidebar.php:17
+#: classic-journalist/sidebar.php:17
 msgid "search site archives"
 msgstr ""
 
 #. Text in echo
-#: Classic-Journalist/comments.php:22
+#: classic-journalist/comments.php:22
 msgid "to"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:21
-#: Classic-Journalist/comments.php:22
+#: classic-journalist/comments.php:22
+#: classic-journalist/index.php:21
 msgid "with % comments"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:21
-#: Classic-Journalist/comments.php:22
+#: classic-journalist/comments.php:22
+#: classic-journalist/index.php:21
 msgid "with one comment"
 msgstr ""
 
 #. Text in function
-#: Classic-Journalist/index.php:21
-#: Classic-Journalist/comments.php:22
+#: classic-journalist/comments.php:22
+#: classic-journalist/index.php:21
 msgid "without comments"
 msgstr ""

@@ -10,7 +10,7 @@
 <link rel="shortcut icon" type="image/x-png" href="<?php bloginfo('template_url'); ?>/favicon.png" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 <?php wp_head(); ?>
-<?php load_theme_textdomain(classic-journalist);?>
+<?php load_theme_textdomain(journalist);?>
 </head>
 
 <body>
