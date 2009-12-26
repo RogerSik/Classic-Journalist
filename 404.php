@@ -1,17 +1,12 @@
 <?php get_header(); ?>
-
 <div id="content">
 
-	<?php // Post dates off by default the_date('','<h2>','</h2>'); ?>
-	<h2><?php _e('Not found'); ?></h2>
+	<h2><?php _e('Not Found', 'classic-journalist');?></h2>
 	<div class="warning">
-		<p><?php _e('Apologies, but we were unable to find what you were looking for. Perhaps  searching will help.') ?></p>
+		<p><?php _e('Apologies, but we were unable to find what you were looking for. Perhaps searching will help.', 'classic-journalist');?></p>
 	</div>
 
-</div> <!-- End content -->
-
+</div>
 <?php get_sidebar(); ?>
-
 <div class="clearleft"></div>
-
 <?php get_footer(); ?>

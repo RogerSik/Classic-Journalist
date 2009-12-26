@@ -60,19 +60,19 @@ function tj_comment_class( $classname='' ) {
 	return join(' ', apply_filters('comment_class', $c));
 }
 
-function journalist_comment($comment, $args, $depth) {
+function classic-journalist_comment($comment, $args, $depth) {
    $GLOBALS['comment'] = $comment; ?>
 	<li <?php comment_class(); ?> id="comment-<?php comment_ID() ?>">
 <div id="div-comment-<?php comment_ID(); ?>" class="group">
 		<?php if ($comment->comment_approved == '0') : ?>
 	<div class="comment_mod">
-		<em><?php _e('Your comment is awaiting moderation.',journalist);?></em>
+		<em><?php _e('Your comment is awaiting moderation.', 'classic-journalist');?></em>
 	</div>
 		<?php endif; ?>
     <div class="comment_author">
         <div class="comment_author_gravatar"><?php echo get_avatar($comment,$size='32',$default='<path_to_url>');?></div>
 		<p><strong><?php comment_author_link() ?></strong></p>
-		<p><small><?php comment_date(__('j M y',journalist)) ;?> <?php _e('at',journalist); ?> <a href="#comment-<?php comment_ID() ?>"><?php comment_time() ?></a> <?php edit_comment_link(__('Edit',journalist)); ?></small></p>
+		<p><small><?php comment_date(__('j M y', 'classic-journalist')) ;?> <?php _e('at', 'classic-journalist'); ?> <a href="#comment-<?php comment_ID() ?>"><?php comment_time() ?></a> <?php edit_comment_link(__('Edit', 'classic-journalist')); ?></small></p>
     </div>
 	<div class="comment_text">
 		<?php comment_text() ?>
